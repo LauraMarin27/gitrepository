@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linea 2 en activ31.txt
+=======
+Nuevos comentarios actv31
+>>>>>>> actividad3
